@@ -27,10 +27,7 @@ function TabRoutes() {
                      tabBarShowLabel: false,
                      tabBarStyle:{
                          position: 'absolute',
-                         backgroundColor:'green',
-                         borderRadius: 50,
-                         bottom: 20,
-                         marginHorizontal: 16
+                         backgroundColor:'white',
                      }
                 }}
             >
